@@ -7,5 +7,8 @@ public class HelloGiada {
         for (int i = 0; i < 3; i++) {
             System.out.println( "Giada!");
         }
+        
+        // print la mia data di nascita
+        System.out.println("4 Ottobre 2007");
     }
 }
