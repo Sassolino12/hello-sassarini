@@ -13,4 +13,10 @@ public class HelloGiada {
         // print la mia squadra del cuore
         System.out.println("Forza Napoli");
     }
+    //Array con il mio nome
+    char[] lettere={'G','i','a','d','a'};
+    // print il mio nome lettera per lettera
+    for(char lettera: lettere){
+        System.out.println(lettera);
+    }
 }
